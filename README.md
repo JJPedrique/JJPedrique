@@ -1,11 +1,3 @@
-###
-
-<div data-importer="profile-views" align="left">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=jjpedrique.jjpedrique&"  />
-</div>
-
-###
-
 <h2 data-importer="text" align="left">Hi 👋! My name is Jose <br>I'm a Computer Engineer | Software Developer (Web & Game Dev)</h2>
 
 ###
@@ -73,3 +65,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jjpedrique/jjpedrique/pacman-output/pacman-contribution-graph.svg?game=pacman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jjpedrique/jjpedrique/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
+###
+
+<div data-importer="profile-views" align="left">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=jjpedrique.jjpedrique&"  />
+</div>
+
+###
